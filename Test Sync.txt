@@ -1,0 +1,4 @@
+#This file is in place to try and test the sync in VS.
+Seems line there is some sort of issue, can only imagine it is to do with .gitignore?!
+
+Testing testing 123
